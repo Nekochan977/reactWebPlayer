@@ -1,3 +1,14 @@
+# REact player
+
+Just followed this tutorial 
+https://dev.to/documatic/building-a-music-player-in-react-2aa4
+
+project's sandbox 
+https://codesandbox.io/s/react-music-player-u3lbyw?from-embed=&file=/src/component/player.js:293-3085
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
